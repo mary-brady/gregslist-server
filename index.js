@@ -9,16 +9,6 @@ server.use(bp.urlencoded({
 }))
 
 
-
-
-
-
-
-
-
-
-
-
 server.listen(port, () => {
     console.log('Runnin on port:', port)
 })
